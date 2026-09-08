@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+catboost_info/
+
+# Working plans/reference docs are not part of the solution commits.
+docs/
+
+# Generated experiment and submission artifacts.
+experiments/
+artifacts/final/
+scorer_results/
+validation_predictions.csv
+December_Chart_Predictions.csv
+submission/*.pdf

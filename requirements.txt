@@ -1,0 +1,11 @@
+catboost>=1.2,<2
+coverage>=7.6,<8
+joblib>=1.4,<2
+matplotlib>=3.8,<4
+mypy>=1.11,<2
+numpy>=1.26,<3
+pandas>=2.2,<3
+ruff>=0.6,<1
+scikit-learn>=1.5,<2
+scipy>=1.12,<2
+xgboost>=2,<4
